@@ -14,6 +14,4 @@ O que funciona:
 O que não funciona: 
 - Adicionar o Pokemon a Pokedex
 
-![image](https://user-images.githubusercontent.com/89301596/153257138-3a8b8135-fa8c-4ba2-93d8-961644f19482.png)
-
-![image](https://user-images.githubusercontent.com/89301596/153257152-302673b7-5b94-49db-b67d-0724b827d030.png)
+![image](https://user-images.githubusercontent.com/89301596/153257138-3a8b8135-fa8c-4ba2-93d8-961644f19482.png) ![image](https://user-images.githubusercontent.com/89301596/153257152-302673b7-5b94-49db-b67d-0724b827d030.png)
