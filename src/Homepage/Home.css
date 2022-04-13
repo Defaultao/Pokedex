@@ -1,0 +1,17 @@
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: Pokebola-spin infinite 20s linear;
+  };
+}
+
+@keyframes Pokebola-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+#back{
+  border-radius: 50%;
+}
