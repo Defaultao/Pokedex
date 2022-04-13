@@ -1,7 +1,5 @@
 # POKEDEX
 
-Dianhos BR Group .LTDA
-
 Nome dos integrantes: 
 - [Célio Jr.](https://github.com/future4code/Celio-Junior)
 - [Gabriel Silva](https://github.com/GabrielSS187)
@@ -14,8 +12,7 @@ O que funciona:
 - Renderização da lista de nomes e algumas imagens, mas estamos com comproblema para trazer as imagens corretamente.
 
 O que não funciona: 
-- É apenas o início do projeto - 01/02/2021
-- As imagens que queremos estão vindo, mas não da forma que queremos.
+- Adicionar o Pokemon a Pokedex
 
 ![image](https://user-images.githubusercontent.com/89301596/153257138-3a8b8135-fa8c-4ba2-93d8-961644f19482.png)
 
